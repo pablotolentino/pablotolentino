@@ -16,7 +16,7 @@ Soy **Desarrollador web .Net**, con más de 7 años de experiencia en tecnologí
 * Leo, comparto y aprendo en **[Twitter](https://twitter.com/Pablo45006815)**
 
 ## ¡Gracias por apoyarme!
-* Invitame un café **[Paypal](https://www.paypal.com/paypalme/my/profile)**
+* Invitame un café **[Paypal](https://paypal.me/PTolentinoTolentino)**
 * Invitame un café **[buymeacoffee](https://www.buymeacoffee.com/pablotolentino)**
 
 
