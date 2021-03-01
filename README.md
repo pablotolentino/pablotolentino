@@ -15,6 +15,11 @@ Soy **Desarrollador web .Net**, con más de 7 años de experiencia en tecnologí
 * Fotos, tips y memes **[Instagram](https://www.instagram.com/pabtolentino/?hl=es-la)**
 * Leo, comparto y aprendo en **[Twitter](https://twitter.com/Pablo45006815)**
 
+## ¡Gracias por apoyarme!
+* Invitame un café **[Paypal](https://www.paypal.com/paypalme/my/profile)**
+* Invitame un café **[buymeacoffee](https://www.buymeacoffee.com/pablotolentino)**
+
+
 #### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork**. ✌️
 
 ![GitHub stars](https://img.shields.io/github/stars/pablotolentino/pablotolentino?style=social)
