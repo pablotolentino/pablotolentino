@@ -1,6 +1,6 @@
 ### Hola, soy Pablo Tolentino 👋
 
-Soy **Desarrollador web .Net**, con más de 7 años de experiencia en tecnologías de la Información. Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
+Soy **Desarrollador web en .Net y Angular**, con más de 7 años de experiencia en tecnologías de la Información. Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
 
 **Apps y Herramientas que uso:**  
 
@@ -11,13 +11,14 @@ Soy **Desarrollador web .Net**, con más de 7 años de experiencia en tecnologí
 <code><img height="30" src="https://raw.githubusercontent.com/pablotolentino/pablotolentino/master/img/Git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pablotolentino/pablotolentino/master/img/Bootstrap.png"></code>
 
-## Donde me puedes encontrar
-* Fotos, tips y memes **[Instagram](https://www.instagram.com/pabtolentino/?hl=es-la)**
-* Leo, comparto y aprendo en **[Twitter](https://twitter.com/Pablo45006815)**
-
 ## ¡Gracias por apoyarme!
 * Invitame un café **[Paypal](https://paypal.me/PTolentinoTolentino)**
 * Invitame un café **[buymeacoffee](https://www.buymeacoffee.com/pablotolentino)**
+
+
+## Donde me puedes encontrar
+* Fotos, tips y memes **[Instagram](https://www.instagram.com/pabtolentino/?hl=es-la)**
+* Leo, comparto y aprendo en **[Twitter](https://twitter.com/Pablo45006815)**
 
 
 #### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork**. ✌️
