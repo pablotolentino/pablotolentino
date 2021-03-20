@@ -17,7 +17,7 @@ Soy **Desarrollador web en .Net y Angular**, con más de 7 años de experiencia 
 
 
 ## Donde me puedes encontrar
-* Artículos **[medium](https://pablotolentino.medium.com/)**
+* Temas de desarrollo de software **[medium](https://pablotolentino.medium.com/)**
 * Fotos, tips y memes **[Instagram](https://www.instagram.com/pabtolentino/?hl=es-la)**
 * Leo, comparto y aprendo en **[Twitter](https://twitter.com/Pablo45006815)**
 
