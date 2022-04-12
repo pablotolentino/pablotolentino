@@ -1,6 +1,6 @@
 ### Hola, soy Pablo Tolentino 👋
 
-Soy **Desarrollador web en .Net y Angular**, con más de 7 años de experiencia en tecnologías de la Información. Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
+Soy **Desarrollador web en .Net y Angular** desde el 2013. Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
 
 **Apps y Herramientas que uso:**  
 
